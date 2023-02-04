@@ -46,4 +46,4 @@ I hope you like the program and get the final use 💖
 if we hit 100 repo stars, i'll be adding some new features and UPDATES!
 ```
 #### Credits
-- [! lioner#1990](https://github.com/LIONER-01) (For Making the README)
+- [! Endora#0321](https://github.com/ProtocolOwner) (For Making the README)
